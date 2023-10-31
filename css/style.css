@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 
-.br-20{
-    border-radius: 20px;
-    
-    
+.bg-image{
+
+    background-image: url("../img/jumbo.png");
+    background-size: 100%;
+    background-position: 70%;
 }
