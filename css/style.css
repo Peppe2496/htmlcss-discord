@@ -14,3 +14,13 @@
 .p-120{
     padding: 120px;
 }
+
+.bg-stars{
+
+    background-image: url("../img/stars.svg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    
+    
+    
+}
